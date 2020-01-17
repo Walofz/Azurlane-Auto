@@ -7,10 +7,8 @@ Renovate and Rewrite base on [ALAuto](https://github.com/Egoistically/ALAuto).
 ## Requirements on Windows
 * Python 3.7.X installed and added to PATH.
 * Latest [ADB](https://developer.android.com/studio/releases/platform-tools) added to PATH.
-* Install [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20191030.exe) added to PATH
 * ADB debugging enabled emulator with **1920x1080 resolution**
 * **Recommend and Testing on Bluestack 4** 
-* **note : "Tesseract" use for convert image to text**
 
 ## Installation and Usage
 1. Download from release.

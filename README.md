@@ -7,8 +7,8 @@ Renovate and Rewrite base on [ALAuto](https://github.com/Egoistically/ALAuto).
 ## Requirements on Windows
 * Python 3.7.X installed and added to PATH.
 * Latest [ADB](https://developer.android.com/studio/releases/platform-tools) added to PATH.
-* ADB debugging enabled emulator with **1920x1080 resolution** and **Android 5 or newer**.
-* Recommend and Testing on Bluestack 4 
+* ADB debugging enabled emulator with **1920x1080 resolution**
+* **Recommend and Testing on Bluestack 4** 
 
 ## Installation and Usage
 1. Download from release.
